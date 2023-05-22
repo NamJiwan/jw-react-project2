@@ -1,5 +1,4 @@
 import { Box, HStack, Text, VStack } from "@chakra-ui/react";
-import { children } from "react";
 import { AiFillApple, AiFillHome, AiFillPhone } from "react-icons/ai";
 import { ImProfile } from "react-icons/im";
 import { Link } from "react-router-dom";
