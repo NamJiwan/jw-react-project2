@@ -4,7 +4,7 @@ import Layout from "./Layout";
 export default function Profile() {
     return (
         <Layout>
-            <Box py='140px'><Text>프로필</Text></Box>
+            <Box py='100px'><Text>프로필</Text></Box>
         </Layout>
     )
 }

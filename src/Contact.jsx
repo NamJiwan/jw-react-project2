@@ -5,7 +5,7 @@ export default function Contact() {
   return (
     <>
         <Layout>
-            <Box py='140px'><Text>연락처</Text></Box>
+            <Box py='100px'><Text>연락처</Text></Box>
         </Layout>
     </>
   )
