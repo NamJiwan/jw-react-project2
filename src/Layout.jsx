@@ -17,7 +17,7 @@ const GNB = [
 export default function Layout({ children, canGoBack, title }) {
   const location = useLocation();
   const navigate= useNavigate();
-  console.log(location.pathname);
+  // console.log(location.pathname);
 
   const handleclick = ()=>{
     // console.log('실행확인')
